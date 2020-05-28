@@ -8,7 +8,8 @@
     <con:config>
       <script>log.info('test')
 log.info('branch')
-log.info('test2')</script>
+log.info('test2')
+log.info('test branch')</script>
     </con:config>
   </con:testStep>
   <con:properties/>
