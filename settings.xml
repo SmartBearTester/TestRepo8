@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:soapui-project id="70220703-0452-4dc8-82d1-c3bd372500b7" created="3.2.7-AT" activeEnvironment="Default environment" name="simple-project-for-git" updated="3.2.7" encryptionMode="Not encrypted" resourceRoot="" compositeProjectFormat="1.3" xmlns:con="http://eviware.com/soapui/config">
-  <con:settings/>
+  <con:settings>
+    <con:setting id="70220703-0452-4dc8-82d1-c3bd372500b7fileName">simple-project-for-git</con:setting>
+  </con:settings>
   <con:properties/>
   <con:wssContainer/>
   <con:databaseConnectionContainer/>
