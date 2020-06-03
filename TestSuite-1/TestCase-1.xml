@@ -8,7 +8,7 @@
     <con:config>
       <script>log.info('test')
 log.info('test branch')
-log.info('test12345')</script>
+log.info('test123456')</script>
     </con:config>
   </con:testStep>
   <con:properties/>
